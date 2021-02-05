@@ -1,0 +1,2 @@
+This is a test of my first time committing a project to GitHub based on memory.
+Change 1
