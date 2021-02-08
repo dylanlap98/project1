@@ -1,4 +1,4 @@
 This is a test of my first time committing a project to GitHub based on memory.
-Change 2
+Change 3
 
-This is version 2 of this file.  Shortly, I will be looking into uploading .py (python) files which will be used to track version history of my code and make sure that if there are errors we can always address these before they are merged into master branch.
+This was a commit that was made as of 2/7/2021 and is just now being committed again.  The old verision needs to be re-evaluated for merge into master.
